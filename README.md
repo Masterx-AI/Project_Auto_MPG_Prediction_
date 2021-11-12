@@ -1,5 +1,5 @@
 # Auto_MPG_Prediction 🚓
-<p align="center"><img src="https://user-images.githubusercontent.com/54996245/140942429-6a91cf2e-8275-42ed-be38-c78d7537df19.png" style="width: 400px;"/></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/54996245/141453017-4930f862-6786-4a0b-adb9-564b06c50444.png" style="width: 400px;"/></p>
 
 ### Description:
 The data is technical spec of cars. The dataset is downloaded from UCI Machine Learning Repository
@@ -33,10 +33,12 @@ Data link : https://archive.ics.uci.edu/ml/datasets/auto+mpg
 <p align="left"><img src="https://user-images.githubusercontent.com/54996245/141452364-01c02877-4156-4e83-8d38-033ae13fb955.png" /></p>
 
 
-**2. Feature-set Distribution**
+**2. Categorical Feature-set Distribution**
 
 ![image](https://user-images.githubusercontent.com/54996245/141452423-0e224fe0-5a77-47f0-a520-1c0f309c5bd2.png)
 ![image](https://user-images.githubusercontent.com/54996245/141452437-439ae079-c205-426a-8ce1-817903a0e4ed.png)
+
+**2. Numerical Feature-set Distribution**
 
 ![image](https://user-images.githubusercontent.com/54996245/141452518-c6b8c924-7f7e-4559-9746-9032730beb1e.png)
 ![image](https://user-images.githubusercontent.com/54996245/141452527-8d38e9d7-a43d-4211-b6ad-0748bcad18f3.png)
