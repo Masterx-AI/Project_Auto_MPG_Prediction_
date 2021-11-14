@@ -1,4 +1,4 @@
-# Auto_MPG_Prediction 🚓
+# <center> AI/ML Project:  Auto MPG Prediction ★ </center>
 <p align="center"><img src="https://user-images.githubusercontent.com/54996245/141647803-6ca90afd-cf71-496b-b138-f71fbe02919e.jpg" style="width: 1000px;"/></p>
 
 ### Description:
